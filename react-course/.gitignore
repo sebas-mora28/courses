@@ -1,0 +1,5 @@
+/lireddit-server/node_modules/*
+/lireddit-web/node_modules/*
+/lireddit-server/dist/*
+/lireddit-server/dist/*
+.cache/*

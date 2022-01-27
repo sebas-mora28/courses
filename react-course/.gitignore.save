@@ -1,0 +1,4 @@
+/lireddit-server/node_modules/*
+/lireddit-web/node_modules/*
+git@github.com:sebas-mora28/full-stack-react.git
+.cache/*
